@@ -1,0 +1,7 @@
+*~
+*.sw[po]
+env
+data/*
+!data/.gitkeep
+log/*
+!log/.gitkeep
